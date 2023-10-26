@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "883926672563",
+    "firebase_url": "https://imaginarium-40a94-default-rtdb.firebaseio.com",
+    "project_id": "imaginarium-40a94",
+    "storage_bucket": "imaginarium-40a94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883926672563:android:aca6e0ed198fe0720f7cc6",
+        "android_client_info": {
+          "package_name": "com.example.imaginarium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883926672563-1j9qs921lj3s72i813kvg2v6d5d632ck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzikO-iitz6UEYaHkexz3DYDi77hf66l4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883926672563-1j9qs921lj3s72i813kvg2v6d5d632ck.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "883926672563-e13il04r0ff8k6es7sgkpvcfsm25lba6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.imaginarium"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883926672563:android:a81bbcf1c836aa810f7cc6",
+        "android_client_info": {
+          "package_name": "com.priyanshu.ar_custom_3d_objects_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883926672563-1j9qs921lj3s72i813kvg2v6d5d632ck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzikO-iitz6UEYaHkexz3DYDi77hf66l4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883926672563-1j9qs921lj3s72i813kvg2v6d5d632ck.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "883926672563-e13il04r0ff8k6es7sgkpvcfsm25lba6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.imaginarium"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
