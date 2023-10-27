@@ -47,6 +47,7 @@ dependencies:
   jumping_dot: ^0.0.6
   animator: ^3.3.0
   fluttertoast: ^8.2.2
+  get: ^4.6.6
 
 dev_dependencies:
   flutter_test:
